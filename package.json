@@ -1,5 +1,5 @@
 {
-  "name": "testing101",
+  "name": "testing-learning-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-preset-env": "^1.6.1",
-    "jest": "^22.4.3",
-    "parcel-bundler": "^1.7.0"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.8.0",
+    "parcel-bundler": "^1.12.3"
   },
   "jest": {
     "verbose": true,
